@@ -4,7 +4,6 @@
 #
 %define		pdir	Test
 %define		pnam	Identity
-%include	/usr/lib/rpm/macros.perl
 Summary:	Test::Identity - assert the referential identity of a reference
 Summary(pl.UTF-8):	Test::Identity - sprawdzenie identyczności referencji
 Name:		perl-Test-Identity
