@@ -8,7 +8,7 @@ Summary:	Test::Identity - assert the referential identity of a reference
 Summary(pl.UTF-8):	Test::Identity - sprawdzenie identyczności referencji
 Name:		perl-Test-Identity
 Version:	0.01
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
